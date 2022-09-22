@@ -1,7 +1,7 @@
 # Skip
 ## The No brainer URL Shortner
 click on the image below to try it out!
-[![N|Solid](https://img.freepik.com/free-vector/flying-rocket-background_1270-85.jpg)](https://skip.ga)
+[![N|Solid]([https://img.freepik.com/free-vector/flying-rocket-background_1270-85.jpg](https://media.discordapp.net/attachments/994237473460854804/1022556218847395850/click-here-png-click-here-icon-png-360-removebg-preview.png))](https://skip.ga)
 
 
 skip is a quick and easy to use url shortner which uses basic ideology to operate!!!
