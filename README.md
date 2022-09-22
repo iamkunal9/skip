@@ -1,6 +1,8 @@
 # Skip
 ## The No brainer URL Shortner
-[![N|Solid](https://img.freepik.com/free-vector/flying-rocket-background_1270-85.jpg)](https://nodesource.com/products/nsolid)
+click on the image below to try it out!
+[![N|Solid](https://img.freepik.com/free-vector/flying-rocket-background_1270-85.jpg)](https://skip.ga)
+
 
 skip is a quick and easy to use url shortner which uses basic ideology to operate!!!
 The plus points of skip are
