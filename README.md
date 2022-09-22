@@ -24,7 +24,7 @@ The plus points of skip are
 Dillinger uses a number of open source projects to work properly:
 
 - [PHP](https://php.net) - General-purpose scripting language geared toward web development
-- [HTML/CSS/JS](https://w3schools.org) - awesome web-based text editor
+- [HTML/CSS/JS](https://w3schools.com) - awesome web-based text editor
 
 
 ## Installation
