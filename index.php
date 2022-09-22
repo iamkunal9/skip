@@ -1,5 +1,7 @@
 <?php
-
+// Dont remove this line if you are using this code!
+// Respect!
+//iamkunal9 HERE!
 function random_strings($length_of_string)
 {
  	// ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -212,6 +214,7 @@ span a:hover{
 	</div>
 	
 </div>
+	<input type="hidden" value="https://linktr.ee/iamkunal9">
 <script>
 function copy(){
   var copyText = document.getElementById("Surl");
