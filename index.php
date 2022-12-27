@@ -57,6 +57,14 @@ fclose($file);
 <!DOCTYPE html>
 <html>
 <head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-28C8YCC8BR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28C8YCC8BR');
+</script>
 	<meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
@@ -69,13 +77,7 @@ fclose($file);
         <meta name="author" content="kunal sharma">
 	<title>Skip</title>
 </head>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-28C8YCC8BR');
-</script>
 <style type="text/css">
 	.form__group {
   position: relative;
