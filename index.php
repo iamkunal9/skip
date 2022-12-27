@@ -1,7 +1,5 @@
 <?php
-// Dont remove this line if you are using this code!
-// Respect!
-//iamkunal9 HERE!
+
 function random_strings($length_of_string)
 {
  	// ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -62,8 +60,22 @@ fclose($file);
 	<meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
-	<title>Url Shortner</title>
+        <meta name="title" content="Skip.ga a no brainer url shortener">
+        <meta name="description" content="skip is a quick and easy to use url shortener which uses basic ideology to operate!!!">
+        <meta name="keywords" content="urlshortner, shortner, url, skip,ga, bitly,skipga">
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
+        <meta name="author" content="kunal sharma">
+	<title>Skip</title>
 </head>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28C8YCC8BR');
+</script>
 <style type="text/css">
 	.form__group {
   position: relative;
@@ -199,6 +211,7 @@ span a:hover{
 
 </style>
 <body>
+  <h1 style="display:none;">skip</h1>
 <div class="form__group field">
 	<form action="index.php" method="POST">
 	<input type="url" class="form__field" placeholder="Url" name="url" id='url' required />
@@ -209,12 +222,11 @@ span a:hover{
 		<br>
 		<label class="form__label1">Shorted Url</label>
 		
-<input type="url" class="form__field" placeholder="SUrl" value="<?php if ($a == 0){echo "";} else{echo 'https://kunalsharma.ml/'.$dir;} ?>" name="Surl" id='Surl' required /><br><br>
+<input type="url" class="form__field" placeholder="SUrl" value="<?php if ($a == 0){echo "";} else{echo 'https://skip.ga/'.$dir;} ?>" name="Surl" id='Surl' required /><br><br>
 <span style="align:center;"><a href="javascript:copy()"></a></span>
 	</div>
 	
 </div>
-	<input type="hidden" value="https://linktr.ee/iamkunal9">
 <script>
 function copy(){
   var copyText = document.getElementById("Surl");
@@ -223,6 +235,8 @@ function copy(){
   navigator.clipboard.writeText(copyText.value);
 }
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5201185987743169"
+     crossorigin="anonymous"></script>
 <footer>
   <a href="https://github.com/iamkunal9"><svg align="left" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="
     position: absolute;
@@ -248,7 +262,6 @@ function copy(){
     left: 95;
 "><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 16h-2v-6h2v6zm-1-6.891c-.607 0-1.1-.496-1.1-1.109 0-.612.492-1.109 1.1-1.109s1.1.497 1.1 1.109c0 .613-.493 1.109-1.1 1.109zm8 6.891h-1.998v-2.861c0-1.881-2.002-1.722-2.002 0v2.861h-2v-6h2v1.093c.872-1.616 4-1.736 4 1.548v3.359z"></path></svg>
 </a>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Linktree</title><path d="M7.953 15.066c-.08.163-.08.324-.08.486.08.517.528.897 1.052.89h1.294v4.776c0 .486-.404.89-.89.89H6.577a.898.898 0 0 1-.889-.891v-4.774H.992c-.728 0-1.214-.729-.89-1.377l6.96-12.627a1.065 1.065 0 0 1 1.863 0l2.913 5.585-3.885 7.042zm15.945 0l-6.96-12.627a1.065 1.065 0 0 0-1.862 0l-2.995 5.586 3.885 7.04c.081.164.081.326.081.487-.08.517-.529.897-1.052.89h-1.296v4.776c.005.49.4.887.89.89h2.914a.9.9 0 0 0 .892-.89v-4.775h4.612c.73 0 1.214-.729.89-1.377Z"/></
 </footer>
 </body>
 
