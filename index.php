@@ -216,7 +216,7 @@ span a:hover{
   <h1 style="display:none;">skip</h1>
 <div class="form__group field">
 	<form action="index.php" method="POST">
-	<input type="url" class="form__field" placeholder="Url" name="url" id='url' required />
+	<input type="url" class="form__field" placeholder="Url" name="url" id='url' autofocus required />
   	<label for="name" class="form__label">Url</label>
 	</form>
 	<div style="display: <?php if ($a == 0){echo 'none';} else{echo 'block';}?>">
